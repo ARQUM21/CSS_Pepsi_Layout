@@ -83,7 +83,7 @@ body {
 .highlight-product-images {
     display: flex; 
     justify-content: center;
-    gap: 10em; 
+    gap: 5em; 
     position: relative; 
     z-index: 1;
 }
